@@ -1,6 +1,6 @@
-### Hi, I'm Sharanie
+### Hi, there 👋
 
-From China, living in Nanjing.
+I'm Sharanie from China, living in Nanjing.
 
 - **Drone development engineer** — contributing to [ArduPilot](https://github.com/ArduPilot/ardupilot) and [PX4](https://github.com/PX4/PX4-Autopilot)
 - **Hardware engineer** — check out my open-source hardware on [oshwhub](https://oshwhub.com/sharanie612)
