@@ -1,13 +1,20 @@
 # Hi, I'm Sharanie ✈️
 
-Drone R&D engineer — embedded hardware (C / C++ / Python), exploring AI-assisted development.
+> 无人机研发工程师 · 嵌入式硬件方向  
+> Drone R&D Engineer · Embedded Hardware
 
-> 无人机研发工程师 · 嵌入式方向 · 业余用 AI 做点小工具
+---
 
-**[Quota](https://github.com/Sharanie0612/Quota)** — Local-first Windows desktop dashboard for tracking AI provider balances, quotas and usage. (Tauri 2 + Rust + React)
+## 关于 · About
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sharanie0612/Sharanie0612/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sharanie0612/Sharanie0612/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Sharanie0612/Sharanie0612/output/github-contribution-grid-snake.svg" />
-</picture>
+无人机研发工程师，嵌入式硬件方向，主力 C / C++ / Python，业余用 AI 做点小工具。
+
+Drone R&D engineer focused on embedded hardware — C / C++ / Python on the job, small AI tools on the side.
+
+## 项目 · Projects
+
+### [Quota](https://github.com/Sharanie0612/Quota)
+
+AI 服务商余额与用量桌面管家：本地优先的 Windows 桌面应用（Tauri 2 + Rust + React）。
+
+Local-first Windows desktop dashboard for tracking AI provider balances, quotas and usage — built with Tauri 2, Rust and React.
